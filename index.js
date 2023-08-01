@@ -65,7 +65,7 @@ bot.command('skills', (ctx) => {
 });
 
 bot.command('phone', (ctx) => {
-    const phone = 649502105;
+    const phone = 649502107;
     ctx.reply(`Contáctame vía whatsApp o llámame al número: +34 ${phone}`);
 });
 
